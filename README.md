@@ -5,7 +5,7 @@ I’m a passionate frontend developer focused on creating responsive, user web i
 
 
 
-💻 Technologies
+💻 # Technologies
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
